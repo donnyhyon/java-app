@@ -1,8 +1,8 @@
-package com.example.demo.employee;
+package com.example.demo.person;
 
-public class Employee {
+public class Person {
     private String name;
-    public Employee(String name) {
+    public Person(String name) {
         this.name = name;
     }
 
